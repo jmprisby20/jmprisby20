@@ -1,7 +1,8 @@
 ### Hello, I'm Jake Prisby👋
 
 - Currently attending Kettering University in purse of a Bachelor's degree in Computer Science
-- Reach me at: <a href = "jmprisby33@gmail.com">jmprisby33@gmail.com</a>
+- Reach me at:
+  -<a href = "jmprisby33@gmail.com">jmprisby33@gmail.com</a>
 <!--
 **jmprisby20/jmprisby20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
