@@ -1,5 +1,7 @@
 ### Hello, I'm Jake Prisby👋
 
+- Currently attending Kettering University
+- <a href = "jmprisby33@gmail.com"> jmprisby33@gmail.com</a>
 <!--
 **jmprisby20/jmprisby20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
