@@ -6,7 +6,7 @@
 - I am currently attending Kettering University
 - Studying Computer Science
 - Reach me at: 
-  - <a href = "jmprisby33@gmail.com"> jmprisby33@gmail.com</a>
+ ### - <a href = "jmprisby33@gmail.com"> jmprisby33@gmail.com</a>
 
 
 - 🔭 I’m currently working on ...
