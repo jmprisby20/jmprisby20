@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello, I'm Jake Prisby👋
 
 <!--
 **jmprisby20/jmprisby20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- I am currently attending Kettering University
+- Studying Computer Science
+- Reach me at: 
+  - <a href = "jmprisby33@gmail.com"> jmprisby33@gmail.com</a>
 
 
 - 🔭 I’m currently working on ...
